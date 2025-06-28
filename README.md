@@ -183,12 +183,14 @@ D --> E[Predicted Disease]
 🎓 B.Sc in Computer Science & Engineering  
 🏫 BRAC University, Dhaka, Bangladesh  
 📧 [shawon2012.sk@gmail.com](mailto:shawon2012.sk@gmail.com)  
-🔗 GitHub: [@ShahabuddinAhmedKhan](https://github.com/ShahabuddinAhmedKhan)
+🔗 GitHub: [@ShahabuddinAhmedKhan](https://github.com/ShahabuddinAhmedKhan)  
+
 **👨‍💻 Shadman Rahman Sameen**  
 🎓 B.Sc in Computer Science & Engineering  
 🏫 BRAC University, Dhaka, Bangladesh  
 📧 [shadmanrahmansameen@gmail.com](mailto:shadmanrahmansameen@gmail.com)  
-🔗 GitHub: [@ShadmanRahman786](https://github.com/ShadmanRahman786)
+🔗 GitHub: [@ShadmanRahman786](https://github.com/ShadmanRahman786)  
+
 **👨‍💻 Mir Md. Muktasif Sakib**  
 🎓 B.Sc in Computer Science & Engineering  
 🏫 BRAC University, Dhaka, Bangladesh  
